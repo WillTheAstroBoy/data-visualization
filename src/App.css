@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+
+ain{
+  text-align: center;
+}
+
+
+body {
+  overflow-x: hidden;
+}
+
+header{
+  font-size: 30px;
+  padding: 20px;
+  font-weight: 500;
+}
+
+table, th, td {
+  border: 1px solid;
+  font-size: 20px;
+  padding: 10px;
+}
+
+table{
+  max-width: 650px;
+  min-width: 500px;
+  margin: 0 auto;
+}
+
+
+
+p{
+  font-size: 2rem;
+  background-color: bisque;
+  width: 100%;
+  padding: 0.5em;
+}
