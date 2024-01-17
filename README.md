@@ -16,7 +16,6 @@ In the project directory, you can run:
 
 ## Screenshot of the tables 
 
-
 ## Flavanoids
 ![Screenshot from 2023-09-06 19-19-50](https://github.com/WillTheAstroBoy/data-visualization/assets/67465278/d19cc1d4-4969-4e3f-888b-6979e5655fe2)
 
